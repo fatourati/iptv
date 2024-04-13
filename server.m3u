@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M LA LIGA FHD"
 http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/59794.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD AU" tvg-logo="" group-title="AUSTRALIA HD & 4K 2",beIN Sports 3 FHD AU
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD AU"
 http://megaott.live:8080/Phonix1244t300/5657567866468/38531
