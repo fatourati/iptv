@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA FHD"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/59794.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ LIGA DE CAMPEONES"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139294.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139267.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139265.ts
 #EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 1" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 1
 https://cdn1.loly1.site/1.m3u8?t=smsm123456
 #EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 2" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 2
@@ -281,3 +273,11 @@ http://live.lynxiptv.xyz/live/596259521662/64217f1c67652/196173.m3u8
 http://live.lynxiptv.xyz/live/596259521662/64217f1c67652/138142.m3u8
 #EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 8 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S2)
 http://live.lynxiptv.xyz/live/596259521662/64217f1c67652/196174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA FHD"
+http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/59794.ts
+#EXTINF:-1 tvg-id="" tvg-name=" M+ LIGA DE CAMPEONES"
+http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139294.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD"
+http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139267.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD"
+http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139265.ts
