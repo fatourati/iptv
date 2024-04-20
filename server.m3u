@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="Sky Sport premier league" tvg-logo="" group-title="SKY SPORT",Sky Sport premier league"
-http://4ksuper.live:80/play/live.php?mac=00:1A:79:66:1B:50&stream=1235927&extension=ts
 #EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 1" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 1
 https://cdn1.loly1.site/1.m3u8?t=smsm123456
 #EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 2" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 2
