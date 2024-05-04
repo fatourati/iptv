@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 1" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 1
+#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 1" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 1
 http://45.148.146.174/redif/dWR5MExrQjYzeEhWTGg3U2tnK20vLzljL1B5eGhpdEtlc0luV2ZCNUVDcz0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 2" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 2
+#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 2" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 2
 http://45.148.146.174/redif/c256MWVJQ0toSkt0Z2t0a29xQ3pwamc0SlNVdkZZSGFQYXliN2g0Q3lMYz0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 3" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 3
+#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 3" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 3
 http://45.148.146.174/redif/azcwK1JvTkw2M3U2ZlVEb3FMdHNuWDN1RWxlU09yQm41N0Y5Sll0UUFpUT0=
 #EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 4" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 4
 https://cdn1.loly1.site/4.m3u8?t=smsm123456
