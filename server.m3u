@@ -1,45 +1,110 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 1" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 1
 http://45.148.146.174/redif/dWR5MExrQjYzeEhWTGg3U2tnK20vLzljL1B5eGhpdEtlc0luV2ZCNUVDcz0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 2" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 2
 http://45.148.146.174/redif/c256MWVJQ0toSkt0Z2t0a29xQ3pwamc0SlNVdkZZSGFQYXliN2g0Q3lMYz0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 3" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="" aspect-ratio=16:9 group-title="BEIN SPORT SD",beIN SPORTS 3
 http://45.148.146.174/redif/azcwK1JvTkw2M3U2ZlVEb3FMdHNuWDN1RWxlU09yQm41N0Y5Sll0UUFpUT0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 4" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 4
-https://cdn1.loly1.site/4.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 5" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 5
-https://cdn1.loly1.site/5.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 6" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 6
-https://cdn1.loly1.site/6.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 7" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 7
-https://cdn1.loly1.site/7.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 8" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 8
-https://cdn1.loly1.site/8.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 9" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 9
-https://cdn1.loly1.site/9.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 1" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 4
+http://45.148.146.174/redif/SDMyN3JkeE5OYnZzdnJUdURRTTlYd0ZkcDF2SlFvdkp5NzhZWExyWDVrQT0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 5
+http://45.148.146.174/redif/NFNYWVJhQUdsWkNxWTNWRTY3clhhNEMvdHFvOVI4bkpvQjhuYkxkY3BWUT0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 6
+http://45.148.146.174/redif/WXFkT1l4Rk9QQ05sMWtpSEE5Mm1Cam1FK1JRajFzRXZmVXJrNC9USldvVT0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 7
+http://45.148.146.174/redif/RzVnMDRoNU1scjc5dStwVmwyTXdXWXdQZlFGY0tFNkxLTEF4WFMvOG1CTT0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 8
+http://45.148.146.174/redif/UERkcmU2TWFPSTlLNmgwQzJyU2pMR0M0Tis0dmkwL2pNaGI2dHY3YVdnOD0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 9
+http://45.148.146.174/redif/ZkQ3d3NoZ095OGlpdGt1dVcwZEp5QnJBRnlVY0hINDhFNkFNTDZDR012dz0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 1
 http://45.148.146.174/redif/T0hHSGo4QWp4ZHRWMGE5dnNtVlVLaEJrZ2pKT2JJaWt4K1htN2NqSDRkcz0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 2" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 2
 http://45.148.146.174/redif/c256MWVJQ0toSkt0Z2t0a29xQ3pwamc0SlNVdkZZSGFQYXliN2g0Q3lMYz0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 3" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 3
 http://45.148.146.174/redif/SFFJbGhtaFVGRDJWVmxuMjNQV1BZYXlvZDZDV1RIc2ZEMnhDSlZxdXdvZz0=
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 4" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 4
-https://cdn1.loly1.site/28.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 5" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 5
-https://cdn1.loly1.site/29.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 6" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 6
-https://cdn1.loly1.site/30.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 7" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 7
-https://cdn1.loly1.site/31.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 8" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 8
-https://cdn1.loly1.site/32.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 9" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 9
-https://cdn1.loly1.site/33.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA FHD"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/59794.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ LIGA DE CAMPEONES"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139294.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139267.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD"
-http://dom.mo1tv.com:25443/live/HAJG6/k7bKPqg05y/139265.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 4
+http://45.148.146.174/redif/T2pnUC8zVzJoTUdYR0dnUnAvMVdaYmFHRkRIb0VrS2daK2pWSFZNcU83dz0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 5
+http://45.148.146.174/redif/M3B5WlFhdk1YTVhaOEZ5aDdnNlpYNFkxVUtTTjAwWGNuREtkTkFHcGNpYz0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 6
+http://45.148.146.174/redif/aUFWY0VaWDJPU2VkajB3eEVsalBwRy9qUEcxc0JVZFRabC9iaWtEOXFqcz0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 7
+http://45.148.146.174/redif/WkVrRFRjZHpuNy81c1RMZmtXV0tKWnVUTE1VeDJxNW1JN1lpandsNHIyTT0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 8
+http://45.148.146.174/redif/ZDZFVXFiTDZQSGFZVWEvdVZJWllsZnh6am9oQ3VvSlFHT3ExelB3UHZLND0=
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="BEIN SPORT HD",beIN SPORTS 9
+http://45.148.146.174/redif/cUh3VE9kTFo3S2x4YjdTb0oyeFFoTUI4NVpDMXhLK3VneVVyWnJpd005QT0=
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD" tvg-logo="" group-title="SSC HD",SSC 1 HD
+http://45.148.146.174/redif/RDlxSDFYRmZEcnV6RUdVV1hyMXM5bE1NTEROVUZSZSs0Q3pmblJSUTVzejVaT1d1WHBKVDF6YU5EUTEyOGJqcA==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="" group-title="SSC HD",SSC 2 HD
+http://45.148.146.174/redif/YVNnOExzNERpWjI3L3dHNDI5M2Q0QTQ2b3pPK0MvRjI1VzErMWlFNGNoWEdRcGE4MFNEbU80Y1ZPbG5FK25DTg==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD" tvg-logo="" group-title="SSC HD",SSC 3 HD
+http://45.148.146.174/redif/UVNPY01mOCtWZUJzM2c2THNabWpzV0I3SUtoTXlwOFpPSGR3dW5hTXhJVDBIME5SVmlNMlZLb3ZkdFZBUWJ0ZQ==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD" tvg-logo="" group-title="SSC HD",SSC 4 HD
+http://45.148.146.174/redif/RWtqOG5obnlwdVYvUUFPQ242TGJEVkxVaUJuSjlPMDU1YldON0tJQkRKN2o5MmEyck1JamlWS2R6UlJkZ3Yxeg==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HD" tvg-logo="" group-title="SSC HD",SSC 5 HD
+http://45.148.146.174/redif/djF4T0lnTFVpM1A3Uk9KaWE5ZGJtNGFDSjMyNDFXeFBhSGlid2pxRVFsVnlRMDBLSmp2TEZPdnNVMU9OY3lBMw==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 SD" tvg-logo="" group-title="SSC SD",SSC 1 SD
+http://45.148.146.174/redif/cS91aDlEcndJaDNWSmRlM1BpRDJGemFjN08zQmVZL3FrNWp0TFRKQjJ2bDVPOTczNFhqOEprWTFkS1B6b3pQZg==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 SD" tvg-logo="" group-title="SSC SD",SSC 2 SD
+http://45.148.146.174/redif/RFhGcVdyaERwQ2YrWlNKUmVvTVd5eFkveVU5SVF4TmRYVlFLUnZndHdsVWNReFdQdjhlcWdiMUUxTlZ6UE9XOQ==     
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 SD" tvg-logo="" group-title="SSC SD",SSC 3 SD
+http://45.148.146.174/redif/djhoRll6a3ExcGduQXZ3c056ZmxLbU0vNy9oZ1pmeW0ra1pGVDNWYjFYZVdjWlJZUEJEeURseW9tUEEzaVFLVw==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 SD" tvg-logo="" group-title="SSC SD",SSC 4 SD
+http://45.148.146.174/redif/T2h2THYwRENlb3JacExKOVBkQ3ZnbVlwbVNEU2o5dVRIQUlYOTNCLzdhQ2xSSU9sdCtObTlnMzJla1prZU9xeQ==
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 SD" tvg-logo="" group-title="SSC SD",SSC 5 SD
+http://45.148.146.174/redif/d28vd0FOY1Z6Q0dPelZnVGZRcUJLMmVkcE0wSEc5NzVWcXpDa2F6RjE2N2d4R1NDVkhiWkFXVFNWTkc5NHNJcg==
+#EXTINF:-1 tvg-id="" tvg-name="AD Prem. 1 HD" tvg-logo="" group-title="AD SPORT HD",AD Prem. 1 HD
+http://45.148.146.174/redif/OFN2NDRGZW11eFZaV05FN2ZGVW5nNzlzVVdVbXM3UG5kdzhOcENXTThPWlFEa0hFZ3BuMFgvRCtpc1VEWWN2bg==
+#EXTINF:-1 tvg-id="" tvg-name="AD Prem. 2 HD" tvg-logo="" group-title="AD SPORT HD",AD Prem. 2 HD
+http://45.148.146.174/redif/ditwSm9jL2hVU0paTjNPYkpWS2dJSkFHajc3dmpVQVRFS0VxMlNKZDRZckRWSExkbDRBczV6bitqZDhKc3I3Uw==
+#EXTINF:-1 tvg-id="" tvg-name="AD Prem. 1 SD" tvg-logo="" group-title="AD SPORT SD",AD Prem. 1 SD
+http://45.148.146.174/redif/VVR1SXVhZWRlSEZLOWRQdU5TWVJ6enhyanZEKzV4VTJwMHhmOHdnei9kZXJreVJDMmxmczNXY1ZpTC9OWGF3QQ==
+#EXTINF:-1 tvg-id="" tvg-name="AD Prem. 2 SD" tvg-logo="" group-title="AD SPORT SD",AD Prem. 2 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="BEIN SPORT SD",beIN SPORTS 9
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="DAZN 1 FR" group-title="FRANCE SPORT",,DAZN 1 FR
+http://45.148.146.174/redif/WkZoV2RqV0ptNi84N1pwTTkyMDV5MHZBMFVlRWFXUGdaU0l4SXJFaWUvallEYmplazVlMjFKeWFsSk1CNUZyag=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="DAZN 2 FR" group-title="FRANCE SPORT",,DAZN 2 FR
+http://45.148.146.174/redif/TGEyYXp0TVU5ckR4THdCR0g5ckxXcWhDT3F6Q2RmL2UwL2FPQXNlNWlUV0VPK3FZRm80cUErc2FqOENBY3BLTg=="
+http://45.148.146.174/redif/NWMrRjFaUUxnWUUydVZaL01xc3pJWnl4VE0zTy9OZUE0b2dqTnd2aUJqODZZUC9rQTJEemtoeXhjcFNHeEVOcQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Canal+ Sport" group-title="FRANCE SPORT",Canal+ Sport
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Canal+ Foot" group-title="FRANCE SPORT",Canal+ Foot
+http://45.148.146.174/redif/WGlsUkVSRDdFNzM4QmVVNVpWMmh1MDBKSURUUHlXcmxPMTVaWE1sdkVTRjNkVXlXeGhNQ2RLVlBWRG4vUDZVQg=="g"
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport 1 HD" group-title="FRANCE SPORT",RMC Sport Live 1 HD
+http://45.148.146.174/redif/SDNRZDIwcjR3Nm1KUk42cjY0U0ZaL1N6ajZCRGV3NkhHb2t2L0ZraWZWUVhQS3YwOTFWMGFnd0xWaXU3VGF6dw=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport 2 HD" group-title="FRANCE SPORT",RMC Sport Live 2 HD
+http://45.148.146.174/redif/Sjc3QmZpK2NxWVlvZEVLOEZPZEpubDVCVEQyUVJDbWF4MFA0MG0zNmJEbzh4c2FlbUMyQ05mU29rRUFmWCtjQQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport Live 3 HD" group-title="FRANCE SPORT",RMC Sport Live 3 HD
+http://45.148.146.174/redif/QzIxdmJJTXhjOENObmIzVFZwSjM0NUJWSDhidnIyeitXaUZPQm5KRy84ZXo0dHBpQTgwbm1iWW5pR00rZXJWbQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport Live 4 HD" group-title="FRANCE SPORT",RMC Sport Live 4 HD
+http://45.148.146.174/redif/bHJyODAwTHdyeGtnbWowdk45cWJqUXh2d2JTcG5wWG9tS3ViRmFYMWZ3dENIZ0gvWk80YVRFOW1QRlU0MVhFbQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport Live 5 HD" group-title="FRANCE SPORT",RMC Sport Live 5 HD
+http://45.148.146.174/redif/Q2UvcXFlNVBxZCtMUXRMTlRsQkcrMTBHTWM4SU42a3lFL1ZCLzA3dXRiK0c1SHlObVg4WnR1bEZtNUtGQmx3Tg=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport Live 6 HD" group-title="FRANCE SPORT",RMC Sport Live 6 HD
+http://45.148.146.174/redif/L2JwY05zV29tRHVDU1F4MGFVV05BQ012TWxkNzRTTEV0TjU2MDJpQWlWWGhPZXNVeTdrbjVEN3phc3NTNEVubw=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport Live 7 HD" group-title="FRANCE SPORT",RMC Sport Live 7 HD
+http://45.148.146.174/redif/dTBuRXU5dGhHTEpEN0F5dW5GS3hzeHdyQmd0V29ZdFYrOWdkQjIza3I5WXhqeE1TRy9BMEJBK2l6VCsvNjJTZQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RMC Sport Live 8 HD" group-title="FRANCE SPORT",RMC Sport Live 8 HD
+http://45.148.146.174/redif/R3A5NGF0bTRpYTh1U2JxTWtVakVhdkpGcGtRRnU0MmZSTzQzbHZlM2kyNzRtaTRKaFlRdEdRa3VPWnZYbVFnSw=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport 1 FR" group-title="FRANCE SPORT",BeInSport 1 FR
+http://45.148.146.174/redif/V1RNc2taMyt1VkZldU5oL1k2NFFmOC9VUzFFd0V0ZVJvWmxWaVR3M2x5KzFFZjNURzN6ZjV2UllhUmVlWCs4TQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport 2 FR" group-title="FRANCE SPORT",BeInSport 2 FR
+http://45.148.146.174/redif/SUVSbzdyMXlTU1lFWEl2VkZCNm5QMkVsaHZwTjJYbkJWSUtrbTBPWTZPQlRJTG9HVWJ3TFExbjg1ZnNCazR1Uw=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport 3 FR" group-title="FRANCE SPORT",BeInSport 3 FR
+http://45.148.146.174/redif/VXA2eFNWQTc3Z3llVktiOVRpV3FHbzdkMFNkemdyUXBmTXlOTVJ1bXdtRWxWRm9RR1VNdVZBQlA0TjJwTURHLw=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport Max 4" group-title="FRANCE SPORT",BeInSport Max 4
+http://45.148.146.174/redif/QnpaWWVqZllKZVNhK0dxRU5nWUprV1h6RG1WUDNwU296T2htNjlSNU5KVEFURDVEV0N4RDFCQnpMWVM4VjVyeA=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport Max 5" group-title="FRANCE SPORT",BeInSport Max 5
+http://45.148.146.174/redif/QzBzMUtaakVGNG1FRjlneUFsbUJBT2JYNGR4STMxWWQrQVhqN0xSZStONGoxanphY3BVOHd5alJXWDlSdjNTaw=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport Max 6" group-title="FRANCE SPORT",BeInSport Max 6
+http://45.148.146.174/redif/Snk2MExDWUNseXlvTTRGZWhzbzFXTWFpRTFydmdiVUVYelJsaW9qQzlvS2lhYUQ0aE40R0Z2QzFCOWZ6aUZNUA=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport Max 7" group-title="FRANCE SPORT",BeInSport Max 7
+http://45.148.146.174/redif/bGFNZy81NjlOK29qUVAzRzMzSElPVUJjN1lYc3hJbW02S1Zpamk1QlR0dXJnWU9zV0FtdkxBWDl1U2hXM052eQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport Max 8" group-title="FRANCE SPORT",BeInSport Max 8
+http://45.148.146.174/redif/TlUwZkgvNlNYazczZ0lCdHpYN3FZMDgyU1BTY2pEMGI0WTRUTVBHbzB2S1IvSUpQTFNCK0RJRkdMN2JpTnRSVg=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport Max 9" group-title="FRANCE SPORT",BeInSport Max 9
+http://45.148.146.174/redif/eERnK2UvVVlhYzNYTTFvb3JuaVJGa0NPVTNiZ1NIaVdDOGhVcFRHa29WVEJUSm1lK0V6K0Z5SkptRTRidDNIRQ=="
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BeInSport Max 10" group-title="FRANCE SPORT",BeInSport Max 10
+http://45.148.146.174/redif/OThyTG5WR1RBVWRZOTBmVHRod1dLcVFETXdhbUxjelRBUGFDZjdkM2pqRkdPeHZ4c0hockZYQVlMVmczNWMzWA=="
+http://45.148.146.174/redif/VFAvUTk0UVNPcG9CbUU4WUZJeDJBVGFYZmhNUWJ2NmR4WTRMN29SR0NYZ05FREpUQkJVV2FNVGlibXRMWjFDMw==
